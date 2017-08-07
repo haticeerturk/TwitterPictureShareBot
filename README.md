@@ -3,6 +3,7 @@ This bot automatically shares any of the images in the send directory on Twitter
 
 <br> :balloon: ***What are the things to do before using it?*** <br><br>
 :large_orange_diamond: You should run this command : **pip install TwitterAPI** <br>
+:large_orange_diamond: You should create a Twitter app and write the tokens provided by twitter into the code. <br>
 :large_orange_diamond: Put pictures you want to share in the **send** folder. <br>
 :large_orange_diamond: Write the words or YouTube links you want to share in the **words.txt** file. <br>
 :large_orange_diamond: And now you can use it. :tada:
